@@ -181,7 +181,7 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-👤 **Juan Zorrilla**
+👤 **Ismail Changezi**
 
 - GitHub: [@SIsmailChangezi](https://github.com/IsmailChangezi/)
 
@@ -191,7 +191,7 @@ Example:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
+
 
 - [ ] **[Visits table]**
 
@@ -211,8 +211,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -220,8 +218,6 @@ If you like this project...
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank...
 
