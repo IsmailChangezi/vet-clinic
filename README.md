@@ -12,7 +12,7 @@ This repository includes files with plain SQL that can be used to recreate a dat
 
 <!--
 HOW TO USE:
-This is an example of how you may give instructions on setting up your project locally.
+
 
 REQUIRED SECTIONS:
 - Table of Contents
@@ -54,11 +54,8 @@ After you're finished please remove all the comments and instructions!
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 
-<!-- PROJECT DESCRIPTION -->
 
 # 📖 [Veterynary Clinic] <a name="about-project"></a>
-
-> Describe your project in 1 or 2 sentences.
 
 **[Veterynary Clinic]** is a database for a veterinary clinic made with PostgreSQL.
 
@@ -66,7 +63,7 @@ After you're finished please remove all the comments and instructions!
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> Describe the tech stack and include only the relevant sections that apply to your project.
+
 
 <details>
   <summary>Client</summary>
@@ -93,8 +90,6 @@ After you're finished please remove all the comments and instructions!
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **[Animals table]**
 - **[Owners table]**
 - **[Species table]**
@@ -103,21 +98,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
-
-> Add a link to your deployed project.
-
-- [Not available](<replace-with-your-deployment-URL>)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- GETTING STARTED -->
-
-## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
-
-To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
