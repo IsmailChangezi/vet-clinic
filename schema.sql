@@ -7,3 +7,7 @@
  escape_attempts INT,
  neutered BOOLEAN,
  weight_kg DECIMAL);
+
+-- for the second day's project
+
+ ALTER TABLE animals ADD COLUMN species VARCHAR(50);
