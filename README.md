@@ -219,7 +219,7 @@ If you like this project...
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank...
+I would like to thank all my fellow micronauts for their helps they have been really nice.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
