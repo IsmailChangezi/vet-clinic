@@ -15,8 +15,11 @@ BEGIN;
 UPDATE animals SET species = 'unspecified';
 
 SELECT * FROM animals;
-
+SELECT species from animals;
 ROLLBACK;
+COMMIT;
+
+SELECT species from animals;
 
 SELECT * FROM animals;
 
