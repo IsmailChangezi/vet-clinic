@@ -211,7 +211,7 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-If you like this project...
+If you like this project feel free to add me on github and linkedin. You can also contact on my email. Thanks
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
