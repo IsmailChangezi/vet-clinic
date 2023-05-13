@@ -39,7 +39,7 @@ VALUES
     ('William Tatcher', 45, '2000-04-23'),
     ('Maisy Smith', 26, '2019-01-17'),
     ('Stephanie Mendez', 64, '1981-05-04'),
-    ('Jack Harkness', 38, '2008-02-11');
+    ('Jack Harkness', 38, '2008-06-11');
 
   insert into specializations(vet_id, species_id)
   values
