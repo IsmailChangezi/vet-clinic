@@ -20,6 +20,7 @@ SELECT * FROM animals;
 
  SELECT * FROM animals;
 
+
  INSERT INTO owners(full_name, age)
 VALUES
   ('Sam Smith', 34),
@@ -70,3 +71,4 @@ VALUES
   ((SELECT id FROM animals WHERE name = 'Boarmon'), (SELECT id FROM vets WHERE name = 'Maisy Smith'), '2020-08-03'),
   ((SELECT id FROM animals WHERE name = 'Blossom'), (SELECT id FROM vets WHERE name = 'Stephanie Mendez'), '2020-05-24'),
   ((SELECT id FROM animals WHERE name = 'Blossom'), (SELECT id FROM vets WHERE name = 'William Tatcher'), '2021-01-11');
+

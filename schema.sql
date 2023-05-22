@@ -12,6 +12,7 @@
 
  ALTER TABLE animals ADD COLUMN species VARCHAR(50);
 
+
 --  day 3 project
 
 CREATE TABLE owners(
@@ -73,3 +74,4 @@ CREATE TABLE visits(
   date_of_visit DATE,
   PRIMARY KEY(id)
 );
+
