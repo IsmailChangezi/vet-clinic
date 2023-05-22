@@ -11,3 +11,5 @@
 -- for the second day's project
 
  ALTER TABLE animals ADD COLUMN species VARCHAR(50);
+ 
+ ALTER TABLE owners ADD COLUMN email VARCHAR(120);
