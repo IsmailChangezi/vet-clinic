@@ -21,4 +21,21 @@
  name VARCHAR(30));
 
  ALTER TABLE treatments ADD PRIMARY KEY (id);
+ 
+ CREATE TABLE invoices (
+ id INT NOT NULL PRIMARY KEY,
+ total_amount DECIMAL,
+ generated_at TIMESTAMP,
+ payed_at TIMESTAMP,
+ medical_history_id INT ,
+ FOREIGN KEY (medical_history_id) REFERENCES medical_histories(id));
 
+ CREATE TABLE invoice_items (
+ id INT NOT NULL,
+ unit_price DECIMAL,
+ quantity INT NOT NULL,
+ total_price DECIMAL,
+ invoice_id INT ,
+ treatment_id INT,
+ FOREIGN KEY (invoice_id) REFERENCES invoices(id),
+ FOREIGN KEY (treatment_id) REFERENCES treatments(id));
