@@ -13,7 +13,16 @@
  admitted_at TIMESTAMP NOT NULL,
  patient_id INT NOT NULL,
  status VARCHAR(50),
- FOREIGN KEY (patient_id) REFERENCES patients(id));
+ FOREIGN KEY (patient_id) REFERENCES patients(id)
+ );
+ 
+CREATE TABLE patient_medical_histories (
+  patient_id INT NOT NULL,
+  medical_history_id INT NOT NULL,
+  PRIMARY KEY (patient_id, medical_history_id),
+  FOREIGN KEY (patient_id) REFERENCES patients(id),
+  FOREIGN KEY (medical_history_id) REFERENCES medical_histories(id)
+);
 
  CREATE TABLE treatments (
  id INT NOT NULL,
