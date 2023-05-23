@@ -1,4 +1,7 @@
-# curriculum-databases-projects-template
+# Vet Clinic PostgreSQL Database
+
+![image](https://github.com/IsmailChangezi/vet-clinic/assets/96125730/dbd6c31f-78a9-4c66-ac31-215e155dd613)
+
 
 ## Getting Started
 
